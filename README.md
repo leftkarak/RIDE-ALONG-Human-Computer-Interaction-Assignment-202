@@ -1,4 +1,4 @@
-This repository contains a university project. The [assignment]() as given by our Human-Computer Interaction course professor.
+This repository contains a university project. The [assignment](https://github.com/leftkarak/RIDE-ALONG-Human-Computer-Interaction-Assignment-2022/tree/main/Assignment) as given by our Human-Computer Interaction course professor.
 
 A university (NTUA, School of ECE, Human-Computer Interaction Technologies course) team project to develop a mobile application on a topic of our choice. Our app, Ride Along, connects users to facilitate ride-sharing, enabling them to coordinate trip details and communicate with fellow passengers.
 
